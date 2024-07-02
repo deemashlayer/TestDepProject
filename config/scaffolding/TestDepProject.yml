@@ -7,3 +7,8 @@ packages:
   gitUrl: https://github.com/deemashlayer/TestDepProject
   gitUsername: deemashlayer
   gitBranch: main
+- name: DepDemoPackage
+  gitServerName: dima
+  gitUrl: https://github.com/deemashlayer
+  gitUsername: deemashlayer
+  gitBranch: master
